@@ -8,6 +8,6 @@ using namespace std;
 int main() {
 	while(1) {
 		fork();
-		cout << "Don't try this at home. ;)" << endl;
+		cout << "Don't try this at home. ;) ;)" << endl;
 	}
 }
